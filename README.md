@@ -3,7 +3,7 @@ A set of data pre-processing program solutions
 
 ## Python solutions
 
-#### super_preprocessor.py: 
+#### super_preprocessor.py
 Comprehensive data pre-processing solution that:
   - provides encoding recommendation
   - pre-process various types of files
@@ -12,7 +12,7 @@ Comprehensive data pre-processing solution that:
      -  Detect truncation
      -  Special treatment to file larger than certain memory size, by chunking the dataset and pre-process parallelly
      
-#### Embedded JSON.py
+#### Embedded_JSON.py
 ##### Program Overview
 Parse Embedded JSON_0614.py is a program that reads in a file containing JSON data and extracts said data into a wide table format, in which the values of JSON object become extended into a single array.
 ##### Inputs
