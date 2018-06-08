@@ -12,7 +12,7 @@ Comprehensive data pre-processing solution that:
      -  Detect truncation
      -  Special treatment to file larger than certain memory size, by chunking the dataset and pre-process parallelly
      
-#### Embedded_JSON.py
+#### Parse_Embedded_JSON.py
 ##### Program Overview
 Parse Embedded JSON_0614.py is a program that reads in a file containing JSON data and extracts said data into a wide table format, in which the values of JSON object become extended into a single array.
 ##### Inputs
